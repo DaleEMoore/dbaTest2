@@ -1,0 +1,13 @@
+Overview
+django-basic-apps (dba) test project in pyCharm.
+
+
+TODOs
+Get it running.
+
+
+Logs
+Wed 27 Oct 2014 10:06 AM CDT
+    from basic.blog.managers import PublicManager
+ImportError: No module named basic.blog.managers
+I should have set this project up as "basic" because that's what the code wants.
